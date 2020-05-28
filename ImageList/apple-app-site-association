@@ -1,0 +1,19 @@
+{
+"applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NY736V73A4.com.minutes.ClassSchedule",
+                "paths": ["/ClassSchedule/*"]
+            },
+            {
+                "appID": "JV59PH389H.com.minutes.PlayFootBall",
+                "paths": ["/PlayFootBall/*"]
+            },
+            {
+                "appID": "JV59PH389H.com.minutes.Imageapp",
+                "paths": ["/Imageapp/*"]
+            }
+        ]
+    }
+}
